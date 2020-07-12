@@ -9,7 +9,7 @@
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.1.0"
   },
-  "devDependencies":
+  "devDependencies": {
     "grunt": "~0.4.x",
     "grunt-contrib-livereload": "0.1.2",
     "grunt-contrib-connect": "0.2.0",
